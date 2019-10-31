@@ -85,5 +85,8 @@
     "tslint-no-focused-test": "^0.5.0",
     "typescript": "~3.5.3",
     "webpack-bundle-analyzer": "^3.4.1"
+  },
+  "wallaby": {
+    "trace": true
   }
 }
