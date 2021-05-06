@@ -37,7 +37,7 @@
     "file-saver": "^1.3.3",
     "font-awesome": "4.6.3",
     "hammerjs": "^2.0.8",
-    "highcharts": "7.1.1",
+    "highcharts": "9.0.0",
     "highcharts-angular": "^2.4.0",
     "jest-date-mock": "^1.0.7",
     "jquery": "3.4.1",
